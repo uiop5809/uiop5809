@@ -13,7 +13,7 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ....
 -->
 # 박예진 *Park Ye Jin*
-👩‍💻 Frontend Developer  
+👩‍💻 Web Frontend Developer  
 📝 The Catholic University of Korea. Computer Engineering
 
 🤔 *For More Info...* [NOTION](https://automatic-cinnamon-fd7.notion.site/Park-YeJin-08cb9a76897645e7aafdbf5e60c24cf5) | [BLOG](https://uiop5809.tistory.com/) 

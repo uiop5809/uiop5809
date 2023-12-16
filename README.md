@@ -12,7 +12,7 @@ Here are some ideas to get you started
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 -->
-# 박예진 *Park Ye Jin*
+## 박예진 *Park Ye Jin*
 👩‍💻 Web Frontend Developer  
 📝 The Catholic University of Korea. Computer Engineering
 

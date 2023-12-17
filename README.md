@@ -54,7 +54,7 @@ Here are some ideas to get you started
 
 <!-- 🤔 *For More Info...* [NOTION](https://automatic-cinnamon-fd7.notion.site/Park-YeJin-08cb9a76897645e7aafdbf5e60c24cf5)--> <!-- | [BLOG](https://uiop5809.tistory.com/) -->
 ![uiop5809's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiop5809&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196) &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5809&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196&border_color=3D3D3D)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5809&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; 
  <!-- <img width="258" src="https://blog.kakaocdn.net/dn/cfe1G4/btry8h82ZYe/hSLWr3lKQucjkHEClhN5u0/img.gif" />  --> <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiop5809)](https://solved.ac/uiop5809/) -->
 
 

@@ -44,7 +44,6 @@ Here are some ideas to get you started
 📫 How to contact me ...
 
     - e-mail : uiop5809@naver.com
-    - velog : https://uiop5809.tistory.com/
 
  
 #### ✨ Language & Framework & Library

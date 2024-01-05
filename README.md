@@ -39,23 +39,25 @@ Here are some ideas to get you started
 - 17th 최종프로젝트 "FourCutArchive"
 
 [2022.09-2023.02] | "대학생IT연합동아리 University Makeus Challenge 3기"
-- 3rd 해커톤 프론트엔드 "Runiv" (대상🥇)
+- 3rd 해커톤 기획, 프론트엔드 "Runiv" (대상🥇)
 - 3rd 최종프로젝트 데모데이 "Lifolio" (우수상🏅)
 
 [2023.02-2023.03] | "길벗출판사 html, css, javascript 블로깅멘토"
 
 [2023.02-2023.08] | "대학생IT연합동아리 University Makeus Challenge 4기 Web 파트장"
-- 4th 해커톤 "Green Quest" (최우수상🥇)
+- 4th 해커톤 프론트엔드 "Green Quest" (최우수상🥇)
 - 4th 최종프로젝트 데모데이 "도와줘요, M쌤!" (우수상🏅)
 - 4th 최종프로젝트 너디너리 데모데이 "도와줘요, M쌤!" (우수상🏅)
 
 [2023.08-2023.12] | "한국대학생IT경영학회 큐시즘 Kusitms 28기"
 - 28th 파트크로스스터디 (1위🥇)
-- 28th 기업프로젝트 동아ST Hicardi 브랜드 페이지 리뉴얼 확장 (2위🥈)
+- 28th 기업프로젝트 동아ST Hicardi 브랜드 페이지 리뉴얼 확장 (2위🏅)
+- 28th 해커톤 프론트엔드 "별빛일기"
 - 28th 최종프로젝트 밋업데이 "Wanteam" (대상🥇)
 
 [2023.10-2023.12] | "삼성증권 디지털/IT 학회연계 프로그램"
 - 하반기 디지털/IT 학회연계 프로그램 최종과제 (대상🥇)
 
 [2024.01-  NOW  ] | "한국대학생IT경영학회 큐시즘 Kusitms 29기 교육기획팀"
+- 큐시즘 공식 홈페이지 TF 프론트엔드
 ```

@@ -60,5 +60,5 @@ Here are some ideas to get you started
 
 [2024.01-  NOW  ] | "한국대학생IT경영학회 큐시즘 KUSITMS 29기 교육기획팀"
 - KUSITMS 공식 홈페이지 TF 프론트엔드
-- 29th 기업프로젝트 한국방송광고진흥공사(Kobaco) 아이작 프로토타입 구현
+- 29th 기업프로젝트 한국방송광고진흥공사(Kobaco) 아이작 프로토타입
 ```

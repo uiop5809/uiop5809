@@ -62,4 +62,5 @@ Here are some ideas to get you started
 - KUSITMS 공식 홈페이지 TF 프론트엔드
 - 29th 큐시즘 블로그, 알고리즘 스터디
 - 29th 기업프로젝트 한국방송광고진흥공사(Kobaco) 아이작 프로토타입 (최우수상🥇)
+- 29th 최종프로젝트 밋업데이 "스쿨포인트(School Point)"
 ```

@@ -65,6 +65,6 @@ Here are some ideas to get you started
 - 29th 해커톤 프론트엔드 "모하시나"
 - 29th 최종프로젝트 밋업데이 "스쿨포인트(School Point)" (우수상🏅)
 
-[2024.06-  NOW  ] | "LG유플러스 유레카 프론트엔드"
-- LG유플러스 유레카 프론트엔드 개발자 교육
+[2024.06-  NOW  ] | "LG Uplus 유레카 프론트엔드"
+- LG Uplus 유레카 프론트엔드 개발자 교육
 ```

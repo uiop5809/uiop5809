@@ -64,7 +64,4 @@ Here are some ideas to get you started
 - 29th 기업프로젝트 한국방송광고진흥공사(Kobaco) 아이작 프로토타입 (최우수상🥇)
 - 29th 해커톤 프론트엔드 "모하시나"
 - 29th 최종프로젝트 밋업데이 "스쿨포인트(School Point)" (우수상🏅)
-
-[2024.06-  NOW  ] | "LG Uplus 유레카 프론트엔드"
-- LG Uplus 유레카 프론트엔드 개발자 교육
 ```

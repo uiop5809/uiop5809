@@ -34,7 +34,7 @@ Here are some ideas to get you started
 * 길벗 출판사 코딩 자율학습 도서 블로깅 멘토`2023.02 ~ 2023.03`
 * 한국대학생IT경영학회 KUSITMS 28th, 29th `2023.08 ~ 2024.06`
 * 삼성증권 디지털/IT 학회연계 프로그램 `2023.10 ~ 2023.12`
-* LG U+ URECA Web Frontend `2024.06 ~ now`
+* LG U+ URECA 1st - Web Frontend `2024.06 ~ now`
 
 ## Awards
 * 대학생IT연합동아리 University Makeus Challenge 3rd 해커톤 (대상🥇) - Runiv `2022.11`

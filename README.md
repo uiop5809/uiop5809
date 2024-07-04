@@ -53,7 +53,7 @@ Here are some ideas to get you started
 * 그래픽기술자격(GTQ) 1급 `2021.02`
 
 ## Study
-* LG U+ URECA 알고리즘 스터디 `2024.06 ~`
-* LG U+ URECA CS 면접 스터디 `2024.06 ~`
+* LG U+ URECA 알고리즘 스터디 `2024.06 ~ now`
+* LG U+ URECA CS 면접 스터디 `2024.06 ~ now`
 
 

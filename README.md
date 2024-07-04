@@ -44,8 +44,8 @@ Here are some ideas to get you started
 * 한국대학생IT경영학회 KUSITMS 28th 기업프로젝트 동아ST (우수상🏅) - Hicardi 브랜드 페이지 리뉴얼 확장 `2023.10`
 * 한국대학생IT경영학회 KUSITMS 28th 최종프로젝트 밋업데이 (대상🥇) - Wanteam `2023.12`
 * 삼성증권 하반기 디지털/IT 학회연계 프로그램 최종과제 (대상🥇) - LLM 모델 `2023.12`
-* 한국대학생IT경영학회 KUSITMS 28th 기업프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  `2024.03`
-* 한국대학생IT경영학회 KUSITMS 28th 최종프로젝트 밋업데이 (우수상🏅) - SchoolPoint `2024.05`
+* 한국대학생IT경영학회 KUSITMS 29th 기업프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  `2024.03`
+* 한국대학생IT경영학회 KUSITMS 29th 최종프로젝트 밋업데이 (우수상🏅) - SchoolPoint `2024.05`
 
 ## Certificates
 * 정보처리기사 `2024.06`

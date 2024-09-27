@@ -35,6 +35,7 @@ Here are some ideas to get you started
 * 한국대학생IT경영학회 KUSITMS 28th, 29th `2023.08 ~ 2024.06`
 * 삼성증권 디지털/IT 학회연계 프로그램 `2023.10 ~ 2023.12`
 * LG U+ URECA 1st - Web Frontend `2024.06 ~ now`
+* SSAFY Ambassador `2024.09 ~ now`
 
 ## Awards
 * 대학생IT연합동아리 University Makeus Challenge 3rd 해커톤 (대상🥇) - Runiv `2022.11`
@@ -43,7 +44,7 @@ Here are some ideas to get you started
 * 대학생IT연합동아리 University Makeus Challenge 4th 데모데이, 너디너리 (우수상🏅) - 도와줘요, M쌤 `2023.09`
 * 한국대학생IT경영학회 KUSITMS 28th 기업프로젝트 동아ST (우수상🏅) - Hicardi 브랜드 페이지 리뉴얼 확장 `2023.10`
 * 한국대학생IT경영학회 KUSITMS 28th 최종프로젝트 밋업데이 (대상🥇) - Wanteam `2023.12`
-* 삼성증권 하반기 디지털/IT 학회연계 프로그램 최종과제 (대상🥇) - LLM 모델 `2023.12`
+* 삼성증권 하반기 디지털/IT 학회연계 프로그램 최종과제 (대상🥇) - sLLM 모델 `2023.12`
 * 한국대학생IT경영학회 KUSITMS 29th 기업프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  `2024.03`
 * 한국대학생IT경영학회 KUSITMS 29th 최종프로젝트 밋업데이 (우수상🏅) - SchoolPoint `2024.05`
 * 교육 공공데이터 분석활용대회 공모전 서비스/상품 분야 (대상-부총리겸교육부장관상🏅) - SchoolPoint `2024.07`

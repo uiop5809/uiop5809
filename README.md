@@ -30,11 +30,12 @@ Here are some ideas to get you started
 ## Experiences
 <details>
   <summary>교내 알고리즘 동아리 ALCUK [2021.12 ~ 2022.06]</summary>
+  &nbsp;&nbsp;&nbsp;- 주니어 (구현, DP, 이분탐색, 그래프심화, 자료구조, MST 등 알고리즘 학습)
 </details>
 
 <details> 
   <summary>대학생IT연합동아리 Pirogramming 17th, 18th [2022.06 ~ 2022.09]</summary>
-  &nbsp;&nbsp;&nbsp;- 17th 동아리원 <br/>
+  &nbsp;&nbsp;&nbsp;- 17th FourCutArchive 최종프로젝트 <br/>
   &nbsp;&nbsp;&nbsp;- 18th 교육기획팀장
 </details>
   

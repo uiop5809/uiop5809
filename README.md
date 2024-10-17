@@ -69,8 +69,8 @@ Here are some ideas to get you started
 
 <details>
   <summary>LG U+ URECA 1st - Web Frontend [2024.06 ~ now]</summary>
-  &nbsp;&nbsp;&nbsp; - 알고리즘 스터디 [2024.06 ~ now] <br/>
-  &nbsp;&nbsp;&nbsp; - CS 면접 스터디 [2024.06 ~ now]
+  &nbsp;&nbsp;&nbsp; - 알고리즘 스터디 [2024.06 ~ 10] <br/>
+  &nbsp;&nbsp;&nbsp; - CS 면접 스터디 [2024.06 ~ 09]
 </details>
   
 <details>

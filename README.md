@@ -35,6 +35,7 @@ Here are some ideas to get you started
 
 <details> 
   <summary>대학생IT연합동아리 Pirogramming 17th, 18th [2022.06 ~ 2022.09]</summary>
+  &nbsp;&nbsp;&nbsp;- 17th HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/>
   &nbsp;&nbsp;&nbsp;- 17th FourCutArchive 최종프로젝트 <br/>
   &nbsp;&nbsp;&nbsp;- 18th 교육기획팀장
 </details>
@@ -49,7 +50,7 @@ Here are some ideas to get you started
 
 <details>
   <summary>길벗 출판사 코딩 자율학습 도서 블로깅 멘토 [2023.02 ~ 2023.03]</summary>
-  &nbsp;&nbsp;&nbsp; - 1st html, css, javascript 코딩 자율학습 멘토
+  &nbsp;&nbsp;&nbsp; - 1st HTML, CSS, JavaScript 코딩 자율학습 멘토
 </details>
 
 <details>

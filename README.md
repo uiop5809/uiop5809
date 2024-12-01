@@ -75,7 +75,7 @@ Here are some ideas to get you started
 </details>
   
 <details open>
-  <summary>SSAFY Ambassador [2024.09 ~ now]</summary>
+  <summary>SSAFY Ambassador [2024.09 ~ 10]</summary>
 </details>
 
 ## Certificates

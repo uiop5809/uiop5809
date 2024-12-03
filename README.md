@@ -26,7 +26,7 @@ Here are some ideas to get you started
 
 ![uiop5809's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiop5809&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196) &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiop5809)](https://solved.ac/uiop5809/)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5809&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; -->
-
+```
 ## Experiences
 <details open>
   <summary>교내 알고리즘 동아리 ALCUK [2021.12 ~ 2022.06]</summary>
@@ -77,7 +77,7 @@ Here are some ideas to get you started
 <details open>
   <summary>SSAFY Ambassador [2024.09 ~ 10]</summary>
 </details>
-
+```
 ## Certificates
 * 정보처리기사 `2024.06`
 * SQL Developer `2024.06`

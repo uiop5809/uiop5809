@@ -68,14 +68,16 @@ Here are some ideas to get you started
 </details>
 
 <details open>
-  <summary>LG U+ URECA 1st - Web Frontend [2024.06 ~ now]</summary>
+  <summary>LG U+ URECA 1st - Web Frontend [2024.06 ~ 2024.12]</summary>
   &nbsp;&nbsp;&nbsp; - 알고리즘 스터디 [2024.06 ~ 10] <br/>
   &nbsp;&nbsp;&nbsp; - CS 면접 스터디 [2024.06 ~ 09] <br/>
-  &nbsp;&nbsp;&nbsp; - LG U+ 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동 
+  &nbsp;&nbsp;&nbsp; - LG U+ 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동
 </details>
   
 <details open>
-  <summary>SSAFY Ambassador [2024.09 ~ 10]</summary>
+  <summary>삼성 청년 SW 아카데미 [2025.01 ~ now] </summary>
+  &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
+  &nbsp;&nbsp;&nbsp;- SSAFY 13th 서울 캠퍼스 [2025.01 ~ now]
 </details>
 
 ## Certificates

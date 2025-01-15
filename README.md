@@ -71,7 +71,7 @@ Here are some ideas to get you started
   <summary>LG U+ URECA 1st - Web Frontend [2024.06 ~ 2024.12]</summary>
   &nbsp;&nbsp;&nbsp; - 알고리즘 스터디 [2024.06 ~ 10] <br/>
   &nbsp;&nbsp;&nbsp; - CS 면접 스터디 [2024.06 ~ 09] <br/>
-  &nbsp;&nbsp;&nbsp; - LG U+ 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동
+  &nbsp;&nbsp;&nbsp; - LG U+ 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동 <br/>
   &nbsp;&nbsp;&nbsp; - LG U+ 최종프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스
 </details>
   

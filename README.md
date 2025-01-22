@@ -78,7 +78,7 @@ Here are some ideas to get you started
 <details open>
   <summary>삼성 청년 SW 아카데미 [2025.01 ~ now] </summary>
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
-  &nbsp;&nbsp;&nbsp;- SSAFY 13th 서울 캠퍼스 [2025.01 ~ now]
+  &nbsp;&nbsp;&nbsp;- SSAFY 13th 서울 캠퍼스 15반 CA [2025.01 ~ now]
 </details>
 
 ## Certificates

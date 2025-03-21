@@ -16,7 +16,7 @@ Here are some ideas to get you started
 ## 박예진 _Park Ye Jin_
 
 👩‍💻 Web Frontend Developer  
-📝 The Catholic University of Korea. Computer Information Engineering
+📝 Computer Information Engineering
 
 #### ✨ Language & Framework & Library
 

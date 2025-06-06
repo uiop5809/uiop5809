@@ -55,7 +55,7 @@ Here are some ideas to get you started
 
 <details open>
   <summary>한국대학생IT경영학회 KUSITMS 28th, 29th [2023.08 ~ 2024.06] </summary>
-  &nbsp;&nbsp;&nbsp;- 28th 기업프로젝트 동아ST (우수상🏅) - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]<br/>
+  &nbsp;&nbsp;&nbsp;- 28th 기업프로젝트 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]<br/>
   &nbsp;&nbsp;&nbsp;- 28th 최종프로젝트 밋업데이 (대상🥇) - Wanteam [2023.12]<br/>
   &nbsp;&nbsp;&nbsp;- 29th 기업프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  [2024.03]<br/>
   &nbsp;&nbsp;&nbsp;- 29th 최종프로젝트 밋업데이 (우수상🏅) - SchoolPoint [2024.05]<br/>

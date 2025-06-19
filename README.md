@@ -34,14 +34,14 @@ Here are some ideas to get you started
 </details>
 
 <details open> 
-  <summary>대학생IT연합동아리 Pirogramming 17th, 18th [2022.06 ~ 2022.09]</summary>
+  <summary>대학생IT연합동아리 피로그래밍 17th, 18th [2022.06 ~ 2022.09]</summary>
   &nbsp;&nbsp;&nbsp;- 17th HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/>
   &nbsp;&nbsp;&nbsp;- 17th FourCutArchive 최종프로젝트 <br/>
   &nbsp;&nbsp;&nbsp;- 18th 교육기획팀장
 </details>
   
 <details open> 
-  <summary>대학생IT연합동아리 University Makeus Challenge 3rd, 4th [2022.09 ~ 2023.08] </summary>  
+  <summary>대학생IT연합동아리 UMC 3rd, 4th [2022.09 ~ 2023.08] </summary>  
   &nbsp;&nbsp;&nbsp;- 3rd 해커톤 (대상🥇) - Runiv [2022.11]  <br/>
   &nbsp;&nbsp;&nbsp;- 3rd 데모데이 (우수상🏅) - Lifolio [2023.02]   <br/>
   &nbsp;&nbsp;&nbsp;- 4th 해커톤 (최우수상🥇) - GreenQuest [2023.07]   <br/>
@@ -74,15 +74,20 @@ Here are some ideas to get you started
 </details>
   
 <details open>
-  <summary>삼성 청년 SW 아카데미 [2025.01 ~ now] </summary>
+  <summary>삼성 청년 SW 아카데미 [2025.01 ~ 06] </summary>
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
-  &nbsp;&nbsp;&nbsp;- SSAFY 13th 서울 캠퍼스 15반 CA [2025.01 ~ now]
+  &nbsp;&nbsp;&nbsp;- SSAFY 13th 서울 캠퍼스 15반 CA(Class Assistant) [2025.01 ~ 06]
+</details>
+
+<details open>
+  <summary>ESTsecurity Threat Inside 사이트 개발 인턴 [2025.06 ~ now] </summary>
 </details>
 
 ## Certificates
 * 정보처리기사 `2024.06`
-* SQL Developer `2024.06`
+* SQLD `2024.06`
 * 그래픽기술자격(GTQ) 1급 `2021.02`
+* 워드프로세서 1급 `2013.05`
 
 
 

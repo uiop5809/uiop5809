@@ -35,8 +35,9 @@ Here are some ideas to get you started
 
 <details open> 
   <summary>대학생IT연합동아리 피로그래밍 17기 동아리원, 18기 교육팀장 [2022.06 ~ 2022.09]</summary>
-  &nbsp;&nbsp;&nbsp;- 17기 HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/>
-  &nbsp;&nbsp;&nbsp;- 17기 FourCutArchive 최종프로젝트 <br/> [🔗](https://github.com/piro17-Archive/FilmArchive)
+  &nbsp;&nbsp;&nbsp;- 17기 HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/> 
+  &nbsp;&nbsp;&nbsp;- 17기 FourCutArchive 최종프로젝트 <br/> 
+
 </details>
   
 <details open> 

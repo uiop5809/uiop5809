@@ -16,7 +16,7 @@ Here are some ideas to get you started
 ## 박예진 _Park Ye Jin_
 
 👩‍💻 Web Frontend Developer  
-📝 Computer Information Engineering
+📝 The Catholic University of Korea. Computer Information Engineering 20
 
 #### ✨ Language & Framework & Library
 
@@ -29,19 +29,18 @@ Here are some ideas to get you started
 
 ## Experiences
 <details open>
-  <summary>교내 알고리즘 동아리 ALCUK [2021.12 ~ 2022.06]</summary>
-  &nbsp;&nbsp;&nbsp;- 주니어 (구현, DP, 이분탐색, 그래프심화, 자료구조, MST 등 알고리즘 학습)
+  <summary>교내 알고리즘 동아리 ALCUK 주니어 [2021.12 ~ 2022.06]</summary>
+  &nbsp;&nbsp;&nbsp;- 구현, DP, 이분탐색, 그래프심화, 자료구조, MST 등 알고리즘 학습
 </details>
 
 <details open> 
-  <summary>대학생IT연합동아리 피로그래밍 17th, 18th [2022.06 ~ 2022.09]</summary>
-  &nbsp;&nbsp;&nbsp;- 17th HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/>
-  &nbsp;&nbsp;&nbsp;- 17th FourCutArchive 최종프로젝트 <br/>
-  &nbsp;&nbsp;&nbsp;- 18th 교육기획팀장
+  <summary>대학생IT연합동아리 피로그래밍 17기 동아리원, 18기 교육팀장 [2022.06 ~ 2022.09]</summary>
+  &nbsp;&nbsp;&nbsp;- 17기 HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/>
+  &nbsp;&nbsp;&nbsp;- 17기 FourCutArchive 최종프로젝트 <br/>
 </details>
   
 <details open> 
-  <summary>대학생IT연합동아리 UMC 3rd, 4th [2022.09 ~ 2023.08] </summary>  
+  <summary>대학생IT연합동아리 UMC 3기 Android, 4기 Web 파트장 [2022.09 ~ 2023.08] </summary>  
   &nbsp;&nbsp;&nbsp;- 3rd 해커톤 (대상🥇) - Runiv [2022.11]  <br/>
   &nbsp;&nbsp;&nbsp;- 3rd 데모데이 (우수상🏅) - Lifolio [2023.02]   <br/>
   &nbsp;&nbsp;&nbsp;- 4th 해커톤 (최우수상🥇) - GreenQuest [2023.07]   <br/>
@@ -50,16 +49,16 @@ Here are some ideas to get you started
 
 <details open>
   <summary>길벗 출판사 코딩 자율학습 도서 블로깅 멘토 [2023.02 ~ 2023.03]</summary>
-  &nbsp;&nbsp;&nbsp; - 1st HTML, CSS, JavaScript 코딩 자율학습 멘토
+  &nbsp;&nbsp;&nbsp; - 1기 HTML, CSS, JavaScript 코딩 자율학습 멘토
 </details>
 
 <details open>
-  <summary>한국대학생IT경영학회 KUSITMS 28th, 29th [2023.08 ~ 2024.06] </summary>
-  &nbsp;&nbsp;&nbsp;- 28th 기업프로젝트 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]<br/>
-  &nbsp;&nbsp;&nbsp;- 28th 최종프로젝트 밋업데이 (대상🥇) - Wanteam [2023.12]<br/>
-  &nbsp;&nbsp;&nbsp;- 29th 기업프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  [2024.03]<br/>
-  &nbsp;&nbsp;&nbsp;- 29th 최종프로젝트 밋업데이 (우수상🏅) - SchoolPoint [2024.05]<br/>
-  &nbsp;&nbsp;&nbsp;- 교육 공공데이터 분석활용대회 공모전 서비스/상품 분야 (대상-부총리겸교육부장관상🏅) - SchoolPoint [2024.07]
+  <summary>한국대학생IT경영학회 KUSITMS 28기 학회원, 29기 교육기획팀원 [2023.08 ~ 2024.06] </summary>
+  &nbsp;&nbsp;&nbsp;- 28기 기업프로젝트 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]<br/>
+  &nbsp;&nbsp;&nbsp;- 28기 최종프로젝트 밋업데이 (대상🥇) - Wanteam [2023.12]<br/>
+  &nbsp;&nbsp;&nbsp;- 29기 기업프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  [2024.03]<br/>
+  &nbsp;&nbsp;&nbsp;- 29기 최종프로젝트 밋업데이 (우수상🏅) - SchoolPoint [2024.05]<br/>
+  &nbsp;&nbsp;&nbsp;- 교육 공공데이터 분석활용대회 공모전 서비스/상품 분야 (대상-부총리겸장관상🏅) - SchoolPoint [2024.07]
 </details>
 
 <details open>
@@ -68,15 +67,16 @@ Here are some ideas to get you started
 </details>
 
 <details open>
-  <summary>LG U+ URECA 1st - Web Frontend [2024.06 ~ 2024.12]</summary>
-  &nbsp;&nbsp;&nbsp; - LG U+ 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동 <br/>
-  &nbsp;&nbsp;&nbsp; - LG U+ 최종프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스
+  <summary>LG 유플러스 URECA - Web Frontend [2024.06 ~ 2024.12]</summary>
+  &nbsp;&nbsp;&nbsp; - LG 유플러스 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동 <br/>
+  &nbsp;&nbsp;&nbsp; - LG 유플러스 최종프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스
 </details>
   
 <details open>
-  <summary>삼성 청년 SW 아카데미 [2025.01 ~ 06] </summary>
+  <summary>삼성 청년 SW 아카데미 (SSAFY) [2025.01 ~ 06] </summary>
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
-  &nbsp;&nbsp;&nbsp;- SSAFY 13th 서울 캠퍼스 15반 CA(Class Assistant) [2025.01 ~ 06]
+  &nbsp;&nbsp;&nbsp;- SSAFY 13기 서울 캠퍼스 15반 CA(Class Assistant) [2025.01 ~ 06] <br />
+  &nbsp;&nbsp;&nbsp;- SSAFY 13기 최종 관통 프로젝트 - 집값톡톡 [2025.06]
 </details>
 
 <details open>

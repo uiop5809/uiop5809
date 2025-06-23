@@ -55,9 +55,9 @@ Here are some ideas to get you started
 
 <details open>
   <summary>한국대학생IT경영학회 KUSITMS 28기 학회원, 29기 교육기획팀원 [2023.08 ~ 2024.06] </summary>
-  &nbsp;&nbsp;&nbsp;- 28기 기업 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]<br/>
+  &nbsp;&nbsp;&nbsp;- 28기 기업 프로젝트 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]<br/>
   &nbsp;&nbsp;&nbsp;- 28기 최종 프로젝트 (대상🥇) - Wanteam [2023.12]<br/>
-  &nbsp;&nbsp;&nbsp;- 29기 기업 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  [2024.03]<br/>
+  &nbsp;&nbsp;&nbsp;- 29기 기업 프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  [2024.03]<br/>
   &nbsp;&nbsp;&nbsp;- 29기 최종 프로젝트 (우수상🏅) - SchoolPoint [2024.05]<br/>
   &nbsp;&nbsp;&nbsp;- 교육 공공데이터 분석활용대회 공모전 서비스/상품 분야 (대상-장관상🏅) - SchoolPoint [2024.07]
 </details>

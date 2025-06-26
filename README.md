@@ -34,18 +34,18 @@ Here are some ideas to get you started
 </details>
 
 <details open> 
-  <summary>대학생IT연합동아리 피로그래밍 17기 동아리원, 18기 교육팀장 [2022.06 ~ 2022.09]</summary>
+  <summary>대학생IT연합동아리 피로그래밍 17기 동아리원, 18기 교육팀장 [2022.06 ~ 2023.02]</summary>
   &nbsp;&nbsp;&nbsp;- 17기 HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/> 
-  &nbsp;&nbsp;&nbsp;- 17기 FourCutArchive 최종프로젝트 <br/> 
+  &nbsp;&nbsp;&nbsp;- 17기 최종 프로젝트 - FourCutArchive [2022.08] <a href="https://github.com/piro17-Archive/FilmArchive" target="_blank">🔗</a> <br/> 
 
 </details>
   
 <details open> 
   <summary>대학생IT연합동아리 UMC 3기 Android, 4기 Web 파트장 [2022.09 ~ 2023.08] </summary>  
-  &nbsp;&nbsp;&nbsp;- 3기 해커톤 (대상🥇) - Runiv [2022.11]  <br/>
-  &nbsp;&nbsp;&nbsp;- 3기 최종 프로젝트 (우수상🏅) - Lifolio [2023.02]   <br/>
-  &nbsp;&nbsp;&nbsp;- 4기 해커톤 (최우수상🥇) - GreenQuest [2023.07]   <br/>
-  &nbsp;&nbsp;&nbsp;- 4기 최종 프로젝트 (우수상🏅) - 도와줘요, M쌤 [2023.09] 
+  &nbsp;&nbsp;&nbsp;- 3기 해커톤 (대상🥇) - Runiv [2022.11] <a href="https://github.com/uiop5809/3rd-hackathon-Team4" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp;- 3기 최종 프로젝트 (우수상🏅) - Lifolio [2023.02] <a href="https://github.com/Lifolio/frontend" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp;- 4기 해커톤 (최우수상🥇) - GreenQuest [2023.07] <a href="https://github.com/UMCHackathon/Hackathon_client" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp;- 4기 최종 프로젝트 (우수상🏅) - 도와줘요, M쌤 [2023.09] <a href="https://github.com/Help-M-Ssaem/front-end" target="_blank">🔗</a>
 </details>
 
 <details open>
@@ -55,22 +55,22 @@ Here are some ideas to get you started
 
 <details open>
   <summary>한국대학생IT경영학회 KUSITMS 28기 학회원, 29기 교육기획팀원 [2023.08 ~ 2024.06] </summary>
-  &nbsp;&nbsp;&nbsp;- 28기 기업 프로젝트 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]<br/>
-  &nbsp;&nbsp;&nbsp;- 28기 최종 프로젝트 (대상🥇) - Wanteam [2023.12]<br/>
-  &nbsp;&nbsp;&nbsp;- 29기 기업 프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype  [2024.03]<br/>
-  &nbsp;&nbsp;&nbsp;- 29기 최종 프로젝트 (우수상🏅) - SchoolPoint [2024.05]<br/>
-  &nbsp;&nbsp;&nbsp;- 교육 공공데이터 분석활용대회 공모전 서비스/상품 분야 (대상-장관상🏅) - SchoolPoint [2024.07]
+  &nbsp;&nbsp;&nbsp;- 28기 기업 프로젝트 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10] <a href="https://github.com/Kusitms-28th-Hicardi-C/FrontEnd" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp;- 28기 최종 프로젝트 (대상🥇) - Wanteam [2023.12] <a href="https://github.com/Kusitms-28th-Meetup-D/frontend" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp;- 29기 기업 프로젝트 KOBACO 한국방송광고진흥공사 (최우수상🏅) - AiSAC Prototype [2024.03] <a href="https://github.com/Kusitms-28th-Kobaco-B/FrontEnd" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp;- 29기 최종 프로젝트 (우수상🏅) - SchoolPoint [2024.05] <a href="https://github.com/Kusitms-29th-ASAP/Frontend" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp;- 교육 공공데이터 분석활용대회 공모전 서비스/상품 분야 (대상-장관상🏅) - SchoolPoint [2024.07] <a href="https://github.com/Kusitms-29th-ASAP/Frontend" target="_blank">🔗</a> 
 </details>
 
 <details open>
   <summary>삼성증권 디지털/IT 학회연계 프로그램 [2023.10 ~ 2023.12] </summary> 
-  &nbsp;&nbsp;&nbsp; - 프로그램 최종과제 (대상🥇) - sLLM 모델 투자정보 검색 서비스 [2023.12]
+  &nbsp;&nbsp;&nbsp; - 프로그램 최종과제 (대상🥇) - sLLM 모델 투자정보 검색 서비스 [2023.12] <a href="https://github.com/2023-Samsung-Securities-Team1/2023-Samsung-Security-sllm-Proejct" target="_blank">🔗</a>
 </details>
 
 <details open>
   <summary>LG유플러스 URECA - Web Frontend [2024.06 ~ 2024.12] </summary>
-  &nbsp;&nbsp;&nbsp; - LG유플러스 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동 <br/>
-  &nbsp;&nbsp;&nbsp; - LG유플러스 최종프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스
+  &nbsp;&nbsp;&nbsp; - LG유플러스 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동 <a href="https://github.com/URECA-PODONG/FrontEnd" target="_blank">🔗</a> <br/>
+  &nbsp;&nbsp;&nbsp; - LG유플러스 최종프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스 <a href="https://github.com/DaengPlace/FrontEnd" target="_blank">🔗</a>
 </details>
   
 <details open>

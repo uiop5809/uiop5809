@@ -68,7 +68,7 @@ Here are some ideas to get you started
 </details>
 
 <details open>
-  <summary>LG유플러스 URECA - Web Frontend [2024.06 ~ 2024.12] </summary>
+  <summary>LG유플러스 URECA - Web FrontEnd [2024.06 ~ 2024.12] </summary>
   &nbsp;&nbsp;&nbsp; - LG유플러스 종합프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동 <a href="https://github.com/URECA-PODONG/FrontEnd" target="_blank">🔗</a> <br/>
   &nbsp;&nbsp;&nbsp; - LG유플러스 최종프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스 <a href="https://github.com/DaengPlace/FrontEnd" target="_blank">🔗</a>
 </details>

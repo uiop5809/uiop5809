@@ -15,7 +15,7 @@ Here are some ideas to get you started
 
 ## 박예진 _Park Ye Jin_
 
-👩‍💻 Web Frontend Developer  
+👩‍💻 Web FrontEnd Developer  
 📝 The Catholic University of Korea. Computer Information Engineering 20
 
 #### ✨ Language & Framework & Library
@@ -50,7 +50,7 @@ Here are some ideas to get you started
 
 <details open>
   <summary>길벗 출판사 코딩 자율학습 도서 블로깅 멘토 [2023.02 ~ 2023.03]</summary>
-  &nbsp;&nbsp;&nbsp; - 1기 HTML, CSS, JavaScript 코딩 자율학습 멘토
+  &nbsp;&nbsp;&nbsp; - HTML, CSS, JavaScript 코딩 자율학습 멘토
 </details>
 
 <details open>

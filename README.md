@@ -81,7 +81,7 @@ Here are some ideas to get you started
 </details>
 
 <details open>
-  <summary> ESTsecurity Threat Inside 사이트 개발 인턴 [2025.06 ~ now] <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> </summary>
+  <summary> ESTsecurity Threat Inside 사이트 개발 인턴 [2025.06 ~ 09] <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> </summary>
 </details>
 
 

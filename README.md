@@ -84,6 +84,9 @@ Here are some ideas to get you started
   <summary> ESTsecurity Threat Inside 사이트 개발 인턴 [2025.06 ~ 09] <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> </summary>
 </details>
 
+<details open>
+  <summary> CJ올리브영 미국 매장 및 온라인 커머스 백오피스 시스템 계약 [2025.09 ~ now] <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> </summary>
+</details>
 
 ## Certificates
 * 정보처리기사 `2024.06`

@@ -85,7 +85,7 @@ Here are some ideas to get you started
 </details>
 
 <details open>
-  <summary> CJ올리브영 미국 매장 및 온라인 커머스 백오피스 시스템 계약직 [2025.09 ~ now] <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> </summary>
+  <summary> CJ올리브영 글로벌 온/오프라인 커머스 백오피스 개발 계약직 [2025.09 ~ now] <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> </summary>
 </details>
 
 ## Certificates

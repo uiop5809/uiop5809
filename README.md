@@ -74,10 +74,10 @@ Here are some ideas to get you started
 </details>
   
 <details open>
-  <summary>삼성 청년 SW·AI 아카데미 [2025.01 ~ 06] <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a> </summary> 
+  <summary>삼성 청년 SW·AI 아카데미 13기 [2025.01 ~ 06] <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a> </summary> 
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
-  &nbsp;&nbsp;&nbsp;- SSAFY 13기 서울 캠퍼스 15반 CA(Class Assistant) [2025.01 ~ 06] <br />
-  &nbsp;&nbsp;&nbsp;- SSAFY 13기 최종 관통 프로젝트 - 집값톡톡 [2025.06]
+  &nbsp;&nbsp;&nbsp;- SSAFY 서울 캠퍼스 15반 CA(Class Assistant) [2025.01 ~ 06] <br />
+  &nbsp;&nbsp;&nbsp;- SSAFY 최종 관통 프로젝트 - 집값톡톡 [2025.06]
 </details>
 
 <details open>

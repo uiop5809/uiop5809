@@ -91,6 +91,7 @@ Here are some ideas to get you started
 * 그래픽기술자격(GTQ) 1급 `2021.02`
 * 워드프로세서 1급 `2013.05`
 
-&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiop5809)](https://solved.ac/uiop5809/) <!-- ![uiop5809's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiop5809&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196) -->
+<a href="https://solved.ac/uiop5809"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uiop5809" alt="Solved.ac 프로필">
+<!--&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiop5809)](https://solved.ac/uiop5809/) <!-- ![uiop5809's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiop5809&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5809&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; -->
 

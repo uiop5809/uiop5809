@@ -32,17 +32,18 @@ Here are some ideas to get you started
 
 <details open>
   <summary> <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> ESTsecurity Threat Inside 사이트 개발 인턴 [2025.06 ~ 09] </summary>
+  &nbsp;&nbsp;&nbsp; - Threat Inside 보안 인텔리전스 사이트 풀스택 개발 및 Azure 
 </details>
 
 <details open>
-  <summary><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a>  삼성 청년 SW·AI 아카데미 13기 [2025.01 ~ 06] </summary> 
+  <summary><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a>  삼성 청년 SW·AI 아카데미 13기 Java/전공자반 [2025.01 ~ 06] </summary> 
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
   &nbsp;&nbsp;&nbsp;- SSAFY 서울 캠퍼스 15반 CA(Class Assistant) [2025.01 ~ 06] <br />
   &nbsp;&nbsp;&nbsp;- SSAFY 최종 관통 프로젝트 - 집값톡톡 [2025.06]
 </details>
 
 <details open>
-  <summary><a href="https://lgupluskdt.recruiter.co.kr/career/home" target="_blank">🔗</a> LG유플러스 URECA - Web FrontEnd [2024.06 ~ 2024.12] </summary>
+  <summary><a href="https://lgupluskdt.recruiter.co.kr/career/home" target="_blank">🔗</a> LG유플러스 유레카 부트캠프 - Web FrontEnd [2024.06 ~ 2024.12] </summary>
   &nbsp;&nbsp;&nbsp; - <a href="https://github.com/URECA-PODONG/FrontEnd" target="_blank">🔗</a> LG유플러스 종합 프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동  <br/>
   &nbsp;&nbsp;&nbsp; - <a href="https://github.com/DaengPlace/FrontEnd" target="_blank">🔗</a> LG유플러스 최종 프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스 
 </details>

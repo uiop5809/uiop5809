@@ -87,6 +87,7 @@ Here are some ideas to get you started
 </details>
 
 ## Certificates
+* 리눅스마스터 2급 `2026.01`
 * 정보처리기사 `2024.06`
 * SQLD `2024.06`
 * 그래픽기술자격(GTQ) 1급 `2021.02`

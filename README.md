@@ -87,6 +87,7 @@ Here are some ideas to get you started
 </details>
 
 ## Certificates
+* AWS Certified Solutions Architect - Associate `2026.01`
 * 리눅스마스터 2급 `2026.01`
 * 정보처리기사 `2024.06`
 * SQLD `2024.06`

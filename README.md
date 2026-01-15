@@ -26,12 +26,12 @@ Here are some ideas to get you started
 
 ## Experiences
 <details open>
-  <summary> <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> CJ올리브영 글로벌 온/오프라인 커머스 백오피스 개발 인턴 [2025.09 ~ now]  </summary>
+  <summary> <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> CJ올리브영 글로벌 온/오프라인 커머스 AI플랫폼 개발팀 인턴 [2025.09 ~ now]  </summary>
   &nbsp;&nbsp;&nbsp; - 올리브영 상품 상세 페이지(PDP) 이미지 번역 AI 서비스 개발
 </details>
 
 <details open>
-  <summary> <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> ESTsecurity Threat Inside 사이트 개발 인턴 [2025.06 ~ 09] </summary>
+  <summary> <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> ESTsecurity Threat Inside 사이트 개발 ESRC 보안대응팀 인턴 [2025.06 ~ 09] </summary>
   &nbsp;&nbsp;&nbsp; - Threat Inside 보안 인텔리전스 사이트 풀스택 개발 및 Azure 
 </details>
 

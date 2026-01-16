@@ -27,7 +27,7 @@ Here are some ideas to get you started
 ## Experiences
 <details open>
   <summary> <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> CJ올리브영 글로벌 온/오프라인 커머스 AI플랫폼팀 인턴 [2025.09 ~ now]  </summary>
-  &nbsp;&nbsp;&nbsp; - 올리브영 상품 상세 페이지(PDP) 이미지 번역 AI 서비스 개발
+  &nbsp;&nbsp;&nbsp; - 올리브영 글로벌엔지니어링센터 PDP Image Translation AI 서비스 개발
 </details>
 
 <details open>

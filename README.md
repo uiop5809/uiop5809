@@ -83,7 +83,7 @@ Here are some ideas to get you started
 
 <details open>
   <summary><a href="https://csie.catholic.ac.kr/csie/index.do" target="_blank">🔗</a> 교내 알고리즘 동아리 ALCUK 주니어 [2021.12 ~ 2022.06]</summary>
-  &nbsp;&nbsp;&nbsp;- 구현, DP, 이분탐색, 그래프심화, 자료구조, MST 등 알고리즘 학습
+  &nbsp;&nbsp;&nbsp;- C++ 기반 구현, DP, 이분탐색, 그래프심화, 자료구조, MST 등 알고리즘 학습
 </details>
 
 ## Certificates

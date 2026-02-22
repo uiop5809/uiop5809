@@ -32,7 +32,7 @@ Here are some ideas to get you started
 
 <details open>
   <summary> <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> ESTsecurity Threat Inside 사이트 개발 ESRC 보안대응팀 인턴 [2025.06 ~ 09] </summary>
-  &nbsp;&nbsp;&nbsp; - Threat Inside 보안 인텔리전스 사이트 풀스택 개발 및 Azure 
+  &nbsp;&nbsp;&nbsp; - Threat Inside 보안 인텔리전스 B2B 웹 서비스 풀스택 개발 및 Azure 인프라 구축
 </details>
 
 <details open>

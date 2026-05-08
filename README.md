@@ -14,7 +14,7 @@ Here are some ideas to get you started
 -->
 
 ## 박예진 _Park Ye Jin_
-
+<!--
 👩‍💻 Web FrontEnd Developer  
 📝 The Catholic University of Korea. Computer Information Engineering 20
 
@@ -24,7 +24,8 @@ Here are some ideas to get you started
 
 <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat&logo=reactQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white"/>  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuiop5809%2Fuiop5809.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)] (https://hits.seeyoufarm.com) -->
 
-## Experiences
+<!--
+## Experiences -->
 <details open>
   <summary> <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> CJ올리브영 글로벌 온/오프라인 커머스 AI플랫폼팀 인턴 [2025.09 ~ now]  </summary>
   &nbsp;&nbsp;&nbsp; - 글로벌엔지니어링센터 상품 상세 페이지 이미지 번역 AI 서비스 PDP BETTER 개발

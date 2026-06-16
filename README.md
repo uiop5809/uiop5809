@@ -26,35 +26,35 @@ Here are some ideas to get you started
 
 <!--
 ## Experiences -->
-<details open>
+<details>
   <summary> <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> CJ올리브영 글로벌 온/오프라인 커머스 AI플랫폼팀 인턴 [2025.09 ~ now]  </summary>
   &nbsp;&nbsp;&nbsp; - 글로벌엔지니어링센터 상품 상세 페이지 이미지 번역 AI 서비스 PDP BETTER 개발
 </details>
 
-<details open>
+<details>
   <summary> <a href="https://www.estsecurity.com/enterprise/product/threatinside" target="_blank">🔗</a> ESTsecurity Threat Inside 사이트 개발 ESRC 보안대응팀 인턴 [2025.06 ~ 09] </summary>
   &nbsp;&nbsp;&nbsp; - Threat Inside 보안 인텔리전스 B2B 웹 서비스 풀스택 개발 및 Azure 인프라 구축
 </details>
 
-<details open>
+<details>
   <summary><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a>  삼성 청년 SW·AI 아카데미 13기 Java/전공자반 [2025.01 ~ 06] </summary> 
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
   &nbsp;&nbsp;&nbsp;- SSAFY 서울 캠퍼스 15반 CA(Class Assistant) <br />
   &nbsp;&nbsp;&nbsp;- SSAFY 최종 관통 프로젝트 - 집값톡톡 [2025.06]
 </details>
 
-<details open>
+<details>
   <summary><a href="https://lgupluskdt.recruiter.co.kr/career/home" target="_blank">🔗</a> LG유플러스 유레카 부트캠프 - Web FrontEnd [2024.06 ~ 2024.12] </summary>
   &nbsp;&nbsp;&nbsp; - <a href="https://github.com/URECA-PODONG/FrontEnd" target="_blank">🔗</a> LG유플러스 종합 프로젝트 - 반려인이 만드는 강아지 플랫폼, 포동  <br/>
   &nbsp;&nbsp;&nbsp; - <a href="https://github.com/DaengPlace/FrontEnd" target="_blank">🔗</a> LG유플러스 최종 프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스 
 </details>
 
-<details open>
+<details>
   <summary><a href="https://www.samsungpop.com/" target="_blank">🔗</a> 삼성증권 디지털/IT 학회연계 프로그램 [2023.10 ~ 2023.12] </summary> 
   &nbsp;&nbsp;&nbsp; - <a href="https://github.com/2023-Samsung-Securities-Team1/2023-Samsung-Security-sllm-Proejct" target="_blank">🔗</a> 프로그램 최종과제 (대상🥇) - sLLM 모델 투자정보 검색 서비스 [2023.12] 
 </details>
 
-<details open>
+<details>
   <summary><a href="https://www.kusitms.com/" target="_blank">🔗</a> 한국대학생IT경영학회 KUSITMS 28기 학회원, 29기 교육기획팀원 [2023.08 ~ 2024.06] </summary>
   &nbsp;&nbsp;&nbsp;- <a href="https://github.com/Kusitms-28th-Hicardi-C/FrontEnd" target="_blank">🔗</a> 28기 기업 프로젝트 동아ST - Hicardi 브랜드 페이지 리뉴얼 확장 [2023.10]  <br/>
   &nbsp;&nbsp;&nbsp;- <a href="https://github.com/Kusitms-28th-Meetup-D/frontend" target="_blank">🔗</a> 28기 최종 프로젝트 (대상🥇) - Wanteam [2023.12]  <br/>
@@ -63,12 +63,12 @@ Here are some ideas to get you started
   &nbsp;&nbsp;&nbsp;- <a href="https://github.com/Kusitms-29th-ASAP/Frontend" target="_blank">🔗</a>  교육 공공데이터 분석활용대회 공모전 서비스/상품 분야 (대상-장관상🏅) - SchoolPoint [2024.07] 
 </details>
 
-<details open>
+<details>
   <summary><a href="https://www.gilbut.co.kr/" target="_blank">🔗</a> 길벗 출판사 코딩 자율학습 도서 블로깅 멘토 [2023.02 ~ 2023.03]</summary>
   &nbsp;&nbsp;&nbsp; - HTML, CSS, JavaScript 코딩 자율학습 멘토
 </details>
 
-<details open> 
+<details> 
   <summary><a href="https://umc.makeus.in/" target="_blank">🔗</a> 대학생IT연합동아리 UMC 3기 Android, 4기 Web 파트장 [2022.09 ~ 2023.08] </summary>  
   &nbsp;&nbsp;&nbsp;- <a href="https://github.com/uiop5809/3rd-hackathon-Team4" target="_blank">🔗</a> 3기 해커톤 (대상🥇) - Runiv [2022.11]  <br/>
   &nbsp;&nbsp;&nbsp;- <a href="https://github.com/Lifolio/frontend" target="_blank">🔗</a> 3기 최종 프로젝트 (우수상🏅) - Lifolio [2023.02]  <br/>
@@ -76,13 +76,13 @@ Here are some ideas to get you started
   &nbsp;&nbsp;&nbsp;- <a href="https://github.com/Help-M-Ssaem/front-end" target="_blank">🔗</a> 4기 최종 프로젝트 (우수상🏅) - 도와줘요, M쌤 [2023.09] 
 </details>
 
-<details open> 
+<details> 
   <summary><a href="https://pirogramming.com/" target="_blank">🔗</a> 대학생IT연합동아리 피로그래밍 17기 동아리원, 18기 교육팀장 [2022.06 ~ 2023.02]</summary>
   &nbsp;&nbsp;&nbsp;- 17기 HTML, CSS, JavaScript, Python, Django, AWS 배포 학습 <br/> 
   &nbsp;&nbsp;&nbsp;- <a href="https://github.com/piro17-Archive/FilmArchive" target="_blank">🔗</a> 17기 최종 프로젝트 - FourCutArchive [2022.08]  <br/> 
 </details>
 
-<details open>
+<details>
   <summary><a href="https://csie.catholic.ac.kr/csie/index.do" target="_blank">🔗</a> 교내 알고리즘 동아리 ALCUK 주니어 [2021.12 ~ 2022.06]</summary>
   &nbsp;&nbsp;&nbsp;- C++ 기반 구현, DP, 이분탐색, 그래프심화, 자료구조, MST 등 알고리즘 학습
 </details>
@@ -93,7 +93,6 @@ Here are some ideas to get you started
 * 정보처리기사 `2024.06`
 * SQLD `2024.06`
 * 그래픽기술자격(GTQ) 1급 `2021.02`
-* 워드프로세서 1급 `2013.05`
 
 <a href="https://solved.ac/uiop5809"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uiop5809" alt="Solved.ac 프로필">
 <!--&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiop5809)](https://solved.ac/uiop5809/) <!-- ![uiop5809's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiop5809&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196) -->

@@ -92,7 +92,7 @@ Here are some ideas to get you started
 * 리눅스마스터 2급 `2026.01`
 * 정보처리기사 `2024.06`
 * SQLD `2024.06`
-* 그래픽기술자격(GTQ) 1급 `2021.02`
+* 그래픽기술자격 1급 `2021.02`
 
 <a href="https://solved.ac/uiop5809"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uiop5809" alt="Solved.ac 프로필">
 <!--&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiop5809)](https://solved.ac/uiop5809/) <!-- ![uiop5809's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiop5809&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196) -->

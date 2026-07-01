@@ -28,7 +28,7 @@ Here are some ideas to get you started
 ## Experiences -->
 <details>
   <summary> <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> CJ올리브영 글로벌 온/오프라인 커머스 AI플랫폼팀 인턴 [2025.09 ~ now]  </summary>
-  &nbsp;&nbsp;&nbsp; - 글로벌엔지니어링센터 상품 상세 페이지 이미지 번역 AI 서비스 PDP BETTER 개발
+  &nbsp;&nbsp;&nbsp; - 글로벌엔지니어링센터 AI Software Developer
 </details>
 
 <details>

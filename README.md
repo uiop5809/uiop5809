@@ -37,7 +37,7 @@ Here are some ideas to get you started
 </details>
 
 <details>
-  <summary><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a>  삼성 청년 SW·AI 아카데미 13기 Java/전공자반 [2025.01 ~ 06] </summary> 
+  <summary><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a> SSAFY 삼성 청년 SW·AI 아카데미 13기 Java/전공자반 [2025.01 ~ 06] </summary> 
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
   &nbsp;&nbsp;&nbsp;- SSAFY 서울 캠퍼스 15반 CA(Class Assistant) <br />
   &nbsp;&nbsp;&nbsp;- SSAFY 최종 관통 프로젝트 - 집값톡톡 [2025.06]

@@ -27,6 +27,11 @@ Here are some ideas to get you started
 <!--
 ## Experiences -->
 <details>
+  <summary> <a href="https://kpmg.com/kr/ko.html" target="_blank">🔗</a> 삼정KPMG ITS 웹 기반 시스템 운영 [2026.11 ~ now]  </summary>
+  &nbsp;&nbsp;&nbsp; - 삼정회계법인 ITS Staff
+</details>
+
+<details>
   <summary> <a href="https://corp.oliveyoung.com/ko" target="_blank">🔗</a> CJ올리브영 글로벌 온/오프라인 커머스 AI플랫폼팀 인턴 [2025.09 ~ 2026.09]  </summary>
   &nbsp;&nbsp;&nbsp; - 글로벌엔지니어링센터 AI Software Engineer
 </details>

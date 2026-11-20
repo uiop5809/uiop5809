@@ -27,7 +27,7 @@ Here are some ideas to get you started
 <!--
 ## Experiences -->
 <details>
-  <summary> <a href="https://kpmg.com/kr/ko.html" target="_blank">🔗</a> 삼정KPMG ITS 운영 DevOps Engineer [2026.11 ~ now]  </summary>
+  <summary> <a href="https://kpmg.com/kr/ko.html" target="_blank">🔗</a> 삼정KPMG ITS 웹 애플리케이션 운영 DevOps Engineer [2026.11 ~ now]  </summary>
   &nbsp;&nbsp;&nbsp; - 삼정회계법인 ITS 웹 기반 시스템 클라우드·애플리케이션 운영
 </details>
 

@@ -96,7 +96,7 @@ Here are some ideas to get you started
 * AWS Certified Solutions Architect - Associate `2026.01`
 * 리눅스마스터 2급 `2026.01`
 * 정보처리기사 `2024.06`
-* SQLD `2024.06`
+* SQL Developer `2024.06`
 * 그래픽기술자격 1급 `2021.02`
 
 <a href="https://solved.ac/uiop5809"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uiop5809" alt="Solved.ac 프로필">

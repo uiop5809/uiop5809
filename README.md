@@ -26,6 +26,7 @@ Here are some ideas to get you started
 
 <!--
 ## Experiences -->
+### Work Experience
 <details>
   <summary> <a href="https://kpmg.com/kr/ko.html" target="_blank">🔗</a> 삼정KPMG ITS 웹 애플리케이션 운영 DevOps Engineer [2026.11 ~ now]  </summary>
   &nbsp;&nbsp;&nbsp; - 삼정회계법인 ITS 웹 기반 시스템 클라우드·애플리케이션 운영
@@ -41,6 +42,7 @@ Here are some ideas to get you started
   &nbsp;&nbsp;&nbsp; - Threat Inside 보안 인텔리전스 B2B 웹 서비스 풀스택 개발 및 Azure 인프라 구축
 </details>
 
+### Bootcamps
 <details>
   <summary><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank">🔗</a> SSAFY 삼성 청년 SW·AI 아카데미 13기 Java/전공자반 [2025.01 ~ 06] </summary> 
   &nbsp;&nbsp;&nbsp;- SSAFY Ambassador [2024.09 ~ 10] <br />
@@ -54,6 +56,8 @@ Here are some ideas to get you started
   &nbsp;&nbsp;&nbsp; - <a href="https://github.com/DaengPlace/FrontEnd" target="_blank">🔗</a> LG유플러스 최종 프로젝트 - 반려동물 동반 시설 추천, 댕댕플레이스 
 </details>
 
+
+### Clubs & Activities
 <details>
   <summary><a href="https://www.samsungpop.com/" target="_blank">🔗</a> 삼성증권 디지털/IT 학회연계 프로그램 [2023.10 ~ 2023.12] </summary> 
   &nbsp;&nbsp;&nbsp; - <a href="https://github.com/2023-Samsung-Securities-Team1/2023-Samsung-Security-sllm-Proejct" target="_blank">🔗</a> 프로그램 최종과제 (대상🥇) - sLLM 모델 투자정보 검색 서비스 [2023.12] 
@@ -92,7 +96,7 @@ Here are some ideas to get you started
   &nbsp;&nbsp;&nbsp;- C++ 기반 구현, DP, 이분탐색, 그래프심화, 자료구조, MST 등 알고리즘 학습
 </details>
 
-## Certificates
+### Certificates
 * AWS Certified Solutions Architect - Associate `2026.01`
 * 리눅스마스터 2급 `2026.01`
 * 정보처리기사 `2024.06`

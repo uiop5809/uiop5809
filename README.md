@@ -97,11 +97,13 @@ Here are some ideas to get you started
 </details>
 
 ### Certificates
-* AWS Certified Solutions Architect - Associate `2026.01`
-* 리눅스마스터 2급 `2026.01`
-* 정보처리기사 `2024.06`
-* SQL Developer `2024.06`
-* 그래픽기술자격 1급 `2021.02`
+<table>
+  <tr><td>AWS Certified Solutions Architect – Associate</td><td>2026.01</td></tr>
+  <tr><td>리눅스마스터 2급</td><td>2026.01</td></tr>
+  <tr><td>정보처리기사</td><td>2024.06</td></tr>
+  <tr><td>SQL Developer</td><td>2024.06</td></tr>
+  <tr><td>그래픽기술자격 1급</td><td>2021.02</td></tr>
+</table>
 
 <a href="https://solved.ac/uiop5809"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uiop5809" alt="Solved.ac 프로필">
 <!--&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiop5809)](https://solved.ac/uiop5809/) <!-- ![uiop5809's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiop5809&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196) -->
